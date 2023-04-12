@@ -3,7 +3,7 @@ int main() {
 
   int *p; // Declare a new poiner
 
-  p = &x; // Assign to pointer p the addres of variable x
+  p = &x; // Assign to pointer p the address of variable x
 
   int d = *p; // Dereferencing value of p into variable d
 
